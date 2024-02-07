@@ -6,7 +6,7 @@ tags: Development Platforms, Flutter, Framework, open source, applications
 
 ## Introduction
 
-Originally from Google's technology labs, Flutter emerges as a dynamic and open-source framework. Aimed at developers focused on front-end development, it offers a comprehensive toolkit designed for designing an application's user interface, utilizing a single codebase. Since its launch in 2018, Flutter has significantly evolved beyond its original mobile orientation, extending its capabilities to support application development across six different platforms. This includes the landscapes of iOS and Android, as well as apllications for the web, Windows, macOS, and Linux. As such, Flutter represents a versatile tool that inspires a wide-ranging coding.
+Flutter is a dynamic and open-source framework which origins from Google technology labs. It was created for developers focused on front-end development, and it offers a comprehensive toolkit tailored for designing an application's user interface, utilizing a single codebase. Since its launch in 2018, Flutter has significantly evolved beyond its original mobile orientation, extending its capabilities to support application development across six different platforms. This includes the landscapes of iOS and Android, as well as applications for the web, Windows, macOS, and Linux. As such, Flutter represents a versatile tool that inspires a wide-ranging coding.
 
 ## Brief History
 
@@ -49,7 +49,7 @@ Originally from Google's technology labs, Flutter emerges as a dynamic and open-
   The Flutter community remained active, contributing to the ecosystem with libraries, tutorials, and resources for developers.
 
 - Beyond 2022, Flutter is expected to continue evolving, with Google and the community driving its development forward to meet the needs of modern application development across various platforms.
-  The journey of Flutter is a testament to its adaptability and the collaborative spirit of the developer community. What began as a solution for mobile app challenges has blossomed into a versatile framework, empowering developers to create stunning 
+  The journey of Flutter is a testament to its adaptability and the collaborative spirit of the developer community. What began as a solution for mobile app challenges has blossomed into a versatile framework, empowering developers to create stunning
   and consistent user experiences across various platforms. With each iteration, Flutter continues to shape the landscape of cross-platform development, leaving an indelible mark on the history of modern software engineering.
 
 ## About & Features
